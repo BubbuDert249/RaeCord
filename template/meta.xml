@@ -1,1 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+  <details>
+  <name>Your's name</name>
+  <desc>Your's descripton</desc>
+  <buttoncolor>Your's button color</buttoncolor> /*#ph$ for blue, #kl@ for red, #gd! For green, #jl% For gray, #link(your url) For gray link button*/ 
+  <buttontext>$1Enable$2Disable</buttontext> /*Put $1 before to attach enable button and the same in disable but $2*/
+</details>
