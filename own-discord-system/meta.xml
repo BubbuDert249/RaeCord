@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <details>
+  <name>Own Discord System</name>
+  <desc>Set Discord App Own CSS and JS!</desc>
+  <buttoncolor>#ph$</buttoncolor>
+  <buttontext>$1Enable$2Disable</buttontext>
+</details>
