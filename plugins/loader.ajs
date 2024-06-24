@@ -1,0 +1,7 @@
+
+get('discordapp://settings/raecord') as('raecord')
+use(raecord) to can$githubUsr('BubbuDert249') uploadFiles(AJS%XML) to? = raecord
+ if uploadFiles(done) then use('loader.css') as('application/css')
+
+ return 1;
+   
